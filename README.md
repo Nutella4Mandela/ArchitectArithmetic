@@ -1,2 +1,2 @@
 # ArchitectArithmetic
-In this project, I used methods to build a program that calculates the material cost for any architect’s floor plan.
+This project helps calculate the cost of a floor plan using Perimeter, Circumference, and Area seperately as a method. Basically like a calculator!
