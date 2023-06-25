@@ -1,0 +1,15 @@
+F:\ETC\Portfolio Stuff\ArchitectArithmetic\ArchitectArithmetic\bin\Debug\net6.0\ArchitectArithmetic.exe
+F:\ETC\Portfolio Stuff\ArchitectArithmetic\ArchitectArithmetic\bin\Debug\net6.0\ArchitectArithmetic.deps.json
+F:\ETC\Portfolio Stuff\ArchitectArithmetic\ArchitectArithmetic\bin\Debug\net6.0\ArchitectArithmetic.runtimeconfig.json
+F:\ETC\Portfolio Stuff\ArchitectArithmetic\ArchitectArithmetic\bin\Debug\net6.0\ArchitectArithmetic.dll
+F:\ETC\Portfolio Stuff\ArchitectArithmetic\ArchitectArithmetic\bin\Debug\net6.0\ArchitectArithmetic.pdb
+F:\ETC\Portfolio Stuff\ArchitectArithmetic\ArchitectArithmetic\obj\Debug\net6.0\ArchitectArithmetic.csproj.AssemblyReference.cache
+F:\ETC\Portfolio Stuff\ArchitectArithmetic\ArchitectArithmetic\obj\Debug\net6.0\ArchitectArithmetic.GeneratedMSBuildEditorConfig.editorconfig
+F:\ETC\Portfolio Stuff\ArchitectArithmetic\ArchitectArithmetic\obj\Debug\net6.0\ArchitectArithmetic.AssemblyInfoInputs.cache
+F:\ETC\Portfolio Stuff\ArchitectArithmetic\ArchitectArithmetic\obj\Debug\net6.0\ArchitectArithmetic.AssemblyInfo.cs
+F:\ETC\Portfolio Stuff\ArchitectArithmetic\ArchitectArithmetic\obj\Debug\net6.0\ArchitectArithmetic.csproj.CoreCompileInputs.cache
+F:\ETC\Portfolio Stuff\ArchitectArithmetic\ArchitectArithmetic\obj\Debug\net6.0\ArchitectArithmetic.dll
+F:\ETC\Portfolio Stuff\ArchitectArithmetic\ArchitectArithmetic\obj\Debug\net6.0\refint\ArchitectArithmetic.dll
+F:\ETC\Portfolio Stuff\ArchitectArithmetic\ArchitectArithmetic\obj\Debug\net6.0\ArchitectArithmetic.pdb
+F:\ETC\Portfolio Stuff\ArchitectArithmetic\ArchitectArithmetic\obj\Debug\net6.0\ArchitectArithmetic.genruntimeconfig.cache
+F:\ETC\Portfolio Stuff\ArchitectArithmetic\ArchitectArithmetic\obj\Debug\net6.0\ref\ArchitectArithmetic.dll
